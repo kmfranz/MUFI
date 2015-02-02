@@ -5656,7 +5656,7 @@ input[type="submit"].btn.btn-mini {
   background-color: transparent;
   color: #ffffff;
 }
-.navbar-inverse .nav .active > a,
+.navbar-inverse  > a,
 .navbar-inverse .nav .active > a:hover,
 .navbar-inverse .nav .active > a:focus {
   color: #ffffff;
@@ -8732,7 +8732,7 @@ h6 small {
   font-weight: 200;
   line-height: 1.25;
   text-transform: lowercase;
-  color: #21786c;
+  color: #A85E40;
 }
 h5 {
   font-weight: bold;
@@ -9436,7 +9436,7 @@ figure a:hover i {
   text-decoration: none;
 }
 figure img {
-  border-bottom: 3px solid #910000;
+  border-bottom: 3px solid #009100;
 }
 a {
   -webkit-transition: 0.25s;
@@ -9470,7 +9470,7 @@ a:focus {
 .navbar .nav > li.active a,
 .navbar .nav > li.active a:hover,
 .navbar .nav > li.active a:focus {
-  color: #cbb370;
+  color: #009100;
   background-color: transparent;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -9484,7 +9484,7 @@ a:focus {
 }
 .navbar .nav > li > a:hover,
 .navbar .nav > li > a:focus {
-  color: #cbb370;
+  color: #009100;
 }
 .navbar .brand {
   width: 100%;
@@ -9532,19 +9532,19 @@ a:focus {
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
   background: none;
-  color: #cbb370;
+  color: #009100;
 }
 .dropdown-menu .active > a,
 .dropdown-menu .active > a:hover,
 .dropdown-menu .active > a:focus {
   background: none;
-  color: #cbb370;
+  color: #009100;
 }
 .navbar .nav li.dropdown.open > .dropdown-toggle,
 .navbar .nav li.dropdown.active > .dropdown-toggle,
 .navbar .nav li.dropdown.open.active > .dropdown-toggle {
   background: none;
-  color: #cbb370;
+  color: #009100;
 }
 header aside {
   position: absolute;
@@ -9556,11 +9556,11 @@ header aside p {
   color: #555555;
 }
 header aside p a {
-  color: #21786c;
+  color: #009100;
 }
 header aside p a:hover,
 header aside p a:focus {
-  color: #cbb370;
+  color: #fff;
   text-decoration: underline;
 }
 header aside .btn {
@@ -9568,8 +9568,8 @@ header aside .btn {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  background: rgba(33, 120, 108, 0.5);
-  color: #999999;
+  background: rgba(00, 69, 00, 0.5);
+  color: #fff;
   width: 2em;
   height: 2em;
   padding: 0;
@@ -9577,8 +9577,8 @@ header aside .btn {
 }
 header aside .btn:focus,
 header aside .btn:hover {
-  background-color: #cbb370;
-  color: #222222;
+  background-color: #009900;
+  color: #111;
 }
 header aside .btn i[class^="icon-"],
 header aside .btn i[class*=" icon-"] {
@@ -9689,11 +9689,11 @@ header aside .btn i[class*=" icon-"] {
   text-decoration: none;
 }
 .btn-primary {
-  background-color: #910000;
+  background-color: #009100;
 }
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #450000;
+  background-color: #004500;
 }
 .btn-warning {
   background-color: #fbb450;
@@ -9791,7 +9791,7 @@ li.active a i {
   background-color: rgba(33, 120, 108, 0.25);
 }
 .thumbnail img {
-  border-bottom: 3px solid #910000;
+  border-bottom: 3px solid #009100;
 }
 .thumbnail .caption {
   padding: 1em;
@@ -10141,7 +10141,7 @@ article img {
   margin-bottom: 1em;
   font-weight: 100;
   text-transform: uppercase;
-  color: #910000;
+  color: #009100;
 }
 .section-jumbotron {
   height: 25em;
@@ -10189,8 +10189,8 @@ header .affix {
 }
 .hoverdir-content {
   position: absolute;
-  background-color: #450000;
-  background-color: rgba(69, 0, 0, 0.75);
+  background-color: #004500;
+  background-color: rgba(0, 69, 0, 0.75);
   width: 100%;
   height: 100%;
   text-align: center;
